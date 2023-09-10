@@ -1,0 +1,7 @@
+Exercises:
+
+Create a new Git repository on your local machine.
+Add some files to the repository, stage them, and make your first commit.
+Create a new branch and make some changes in that branch.
+Merge the changes from your branch into the main branch.
+Clone a public repository from GitHub or GitLab and explore its history.

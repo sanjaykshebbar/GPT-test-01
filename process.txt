@@ -1,0 +1,5 @@
+This is the process file that has been created which explains the process that has been made while performing this task.
+
+Step:1 --> Created a folder and initilised the git inside it
+Step:2 --> Create a file and pushed into stageing area.
+
